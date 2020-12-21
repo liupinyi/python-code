@@ -1,2 +1,2 @@
 # python-code
-my phthon code
+Some Python code
